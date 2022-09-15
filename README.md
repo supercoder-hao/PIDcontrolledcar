@@ -1,6 +1,6 @@
 # PIDcontrolledcar
 A PID based correcting and line following car.
-
+&nbsp;
 
 <p align="center">
   <img src="https://github.com/supercoder-hao/PIDcontrolledcar/blob/main/gif/opsCorrecting.gif" />
@@ -8,7 +8,7 @@ A PID based correcting and line following car.
 <p align="center">
   Ultrasound sensor keeps the car parallel with the wall, even when turning.
 </p>
-
+&nbsp;
 
 <p align="center">
   <img src="https://github.com/supercoder-hao/PIDcontrolledcar/blob/main/gif/linefollowingCar.gif" />
