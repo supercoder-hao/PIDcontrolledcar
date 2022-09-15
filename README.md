@@ -15,5 +15,5 @@ A PID based correcting and line following car.
 </p>
 
 <p align="center">
-  IR sensors keep the car on the track even when motor inconsistencies.
+  IR sensors keep the car on the track even when motor inconsistencies. (<15 second run)
 </p>
